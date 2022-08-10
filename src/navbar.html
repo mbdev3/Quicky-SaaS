@@ -1,0 +1,33 @@
+<nav class="m-2 mt-10">
+  <div
+    class="flex w-full px-2 justify-between md:items-center md:w-[80%] md:justify-center m-[auto]"
+  >
+    <div class="flex-c">
+      <img src="./assets/logo.png" alt="logo" class="w-[64px]" />
+    </div>
+    <div id="navelems" class="hidden md:block w-full">
+      <div class="flex md:flex-row flex-col nav-popup justify-between">
+        <div class="flex justify-center">
+          <ul class="flex gap-4 flex-col md:flex-row text-lg text-white font-semibold flex-c">
+            <li>Tour</li>
+            <li>Product</li>
+            <li>Pricing</li>
+          </ul>
+        </div>
+        <div class="text-center">
+          <button
+            class="text-lg text-white border border-gray-200 px-8 rounded-full pb-2 pt-1 hover:bg-white hover:text-indigo-600"
+          >
+            <span class="">Sign in</span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="block md:hidden flex-c">
+      <button id="nav-toggle">
+        <img id="nav-toggle" src="./assets/more.png" alt="open nav" class="w-[32px]" />
+      </button>
+    </div>
+  </div>
+</nav>
+<script src="js/navControl.js"></script>

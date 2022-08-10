@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="37px" viewBox="0 0 46 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="61.2583367%" y2="34.8837328%" id="linearGradient-1">
+            <stop stop-color="#7AEAFB" offset="0%"></stop>
+            <stop stop-color="#0ABCD2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="O-Saas" transform="translate(-891.000000, -901.000000)">
+            <g id="Intro" transform="translate(250.000000, 825.000000)">
+                <g id="Intro-03" transform="translate(635.000000, 75.000000)">
+                    <g id="Group-9">
+                        <path d="M21.2553875,9.71939475 L48.2711936,36.7343377 C49.4427852,37.9058919 49.4428155,39.8053868 48.2712614,40.9769784 C47.859366,41.3888869 47.3364599,41.6719694 46.7663739,41.7916703 L12.5701679,48.9718407 C10.9486719,49.3123059 9.35818801,48.2738252 9.01772282,46.6523292 C8.93235791,46.2457711 8.93236061,45.8259148 9.01773074,45.4193579 L16.1981306,11.2242445 C16.5386166,9.6027528 18.1291138,8.56429255 19.7506055,8.90477858 C20.3206452,9.02447735 20.8435113,9.30753179 21.2553875,9.71939475 Z" id="Rectangle-3-Copy" fill="url(#linearGradient-1)" transform="translate(28.995001, 28.995103) rotate(-225.000000) translate(-28.995001, -28.995103) "></path>
+                        <path d="M22.6941904,27.7394109 L33.9603165,16.5324403 C34.7460944,15.7473782 35.8041092,15.8982339 36.4537625,16.5447578 C37.1065132,17.194356 37.2488202,18.2472635 36.4661397,19.026173 L23.9470979,31.4800079 C23.2170072,32.154237 22.1497166,32.188103 21.4412788,31.4800079 L17.5402493,27.5977903 C15.8882642,25.9537733 18.4002699,23.4631231 20.0460643,25.1040576 L22.6941904,27.7394109 Z" id="Fill-1" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
