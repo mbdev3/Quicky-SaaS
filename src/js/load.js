@@ -1,4 +1,5 @@
 $(function () {
-  $('#navbar').load('navbar.html');
-  $('#intro').load('intro.html');
+  $('#navbar').load('./components/navbar.html');
+  $('#intro').load('./components/intro.html');
+  $('#features').load('./components/features.html');
 });

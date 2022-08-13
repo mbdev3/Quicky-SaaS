@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svgjs="http://svgjs.com/svgjs"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 800 560"
+	 style="enable-background:new 0 0 800 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{opacity:1;fill:#C6269D;}
+	.st2{fill:#542AD3;}
+	@keyframes float1 {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(-10px, 0)}
+                100%{transform: translate(0, 0)}
+            }
+
+            .st1 {
+                animation: float1 5s infinite;
+            }
+
+            @keyframes float2 {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(-10px, -10px)}
+                100%{transform: translate(0, 0)}
+            }
+
+            .st2 {
+                animation: float2 4s infinite;
+            }
+
+            @keyframes float3 {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(0, -20px)}
+                100%{transform: translate(0, 0)}
+            }
+
+            .st1 {
+                animation: float3 6s infinite;
+            }
+</style>
+<rect class="st0" width="800" height="560"/>
+<g>
+	<path class="st1" d="M852.9,67.4L737,77.6l10.1,115.9L863,183.4L852.9,67.4z"/>
+	<path class="st1" d="M188.9,368L52.8,474.2l87.9,138.5l136.2-106.2L188.9,368z"/>
+	<path class="st2" d="M872.2,555.5l20-152.9L752.7,368l-20,152.9L872.2,555.5z"/>
+</g>
+</svg>
