@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="193.21588%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="O-Saas" transform="translate(-340.000000, -3756.000000)">
+            <g id="Essential" transform="translate(250.000000, 3664.000000)">
+                <g id="Icon" transform="translate(90.000000, 92.000000)">
+                    <path d="M49,98 C21.9380473,98 0,76.0619527 0,49 C0,21.9380473 21.9380473,0 49,0 C76.0619527,0 98,21.9380473 98,49 C98,76.0619527 76.0619527,98 49,98 Z M49,79 C65.5685425,79 79,65.5685425 79,49 C79,32.4314575 65.5685425,19 49,19 C32.4314575,19 19,32.4314575 19,49 C19,65.5685425 32.4314575,79 49,79 Z" id="Combined-Shape" fill="#2B21A4" opacity="0.1"></path>
+                    <path d="M79,49 C79,32.4314575 65.5685425,19 49,19 L49,0 C76.0619527,0 98,21.9380473 98,49 L79,49 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

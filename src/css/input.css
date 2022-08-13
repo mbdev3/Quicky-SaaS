@@ -12,7 +12,9 @@ body {
 h1,
 h2,
 h3,
-h4 {
+h4,
+button,
+nav {
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -52,7 +54,11 @@ h4 {
 }
 
 
-#intro-bg {}
+#intro-bg {
+    /* background-image: url('../src/assets/bg.jpg');
+    background-size: cover;
+    background-position: right; */
+}
 
 
 #video-section {
@@ -60,4 +66,67 @@ h4 {
     background-size: cover;
     background-position: right;
 
+}
+
+.companies-grid {
+    display: grid;
+    gap: 3rem;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+@media (min-width:768px) {
+    .companies-grid {
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: repeat(4, 1fr);
+        justify-items: center;
+        align-items: center;
+    }
+}
+
+#companies {
+    background: #FFCB9C;
+
+    background: -webkit-linear-gradient(to bottom, #FFCB9C, #EB65B7);
+
+    background: linear-gradient(to bottom, #FFCB9C, #EB65B7);
+
+}
+
+@media (min-width:768px) {
+    #companies {
+        background: #F596AA;
+
+    }
+}
+
+
+#premium {
+    background: #3123AE;
+
+    background: -webkit-linear-gradient(to bottom, #3123AE, #C86DD7);
+
+    background: linear-gradient(to bottom, #3123AE, #C86DD7);
+
+
+
+}
+
+#bg {
+
+    top: 0;
+    z-index: -10;
+    height: 100vh;
+    width: 100%;
+
+}
+
+
+
+#play:hover {
+
+    filter: hue-rotate(60deg);
+    transition: 0.5s all ease;
 }
