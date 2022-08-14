@@ -1,4 +1,12 @@
 {
+  "name": "quicky",
+  "author": {
+    "name": "Mohammed Banani",
+    "email": "contact@thembdev.com",
+    "url": "https://www.thembdev.com"
+  },
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "wind": "npx tailwindcss -i ./src/css/input.css -o ./dist/output.css --watch"
   },
