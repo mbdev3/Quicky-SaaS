@@ -1,8 +1,8 @@
 $(function () {
-  $('#navbar').load('./components/navbar.html');
-  $('#intro').load('./components/intro.html');
-  $('#features').load('./components/features.html');
-  $('#companies').load('./components/companies.html');
-  $('#pricing').load('./components/pricing.html');
-  $('#footer').load('./components/footer.html');
+  $('#navbar').load('./src/components/navbar.html');
+  $('#intro').load('./src/components/intro.html');
+  $('#features').load('./src/components/features.html');
+  $('#companies').load('./src/components/companies.html');
+  $('#pricing').load('./src/components/pricing.html');
+  $('#footer').load('./src/components/footer.html');
 });

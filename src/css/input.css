@@ -39,19 +39,37 @@ nav {
         box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
             0 10px 10px -5px rgba(0, 0, 0, 0.04);
         border-radius: 1rem;
+        animation: linear 0.5s test;
+        overflow: hidden;
+    }
 
+    @keyframes test {
+        0% {
+            left: 100%;
+            opacity: 0.75;
+        }
 
+        100% {
+            left: 50%;
+            opacity: 1;
+
+        }
     }
 
     @supports (backdrop-filter: blur(1rem)) {
         .nav-popup {
             -webkit-backdrop-filter: blur(1rem);
-            backdrop-filter: blur(1rem);
-            background-color: hsla(0, 0%, 100%, 0.1);
+            backdrop-filter: blur(2rem);
+            background-color: hsla(0, 0%, 50%, 0.5);
+            background-color: white;
+
         }
 
     }
+
+
 }
+
 
 
 #intro-bg {
