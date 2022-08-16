@@ -10,4 +10,4 @@ npx tailwindcss init
 npx tailwindcss -i ./src/css/input.css -o ./dist/output.css --watch
 ```
 
-###### [demo](https://quicky-mbdev.netlify.app/)
+###### [=>Demo](https://quicky-mbdev.netlify.app/)
