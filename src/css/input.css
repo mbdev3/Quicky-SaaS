@@ -41,6 +41,7 @@ nav {
         border-radius: 1rem;
         animation: linear 0.5s test;
         overflow: hidden;
+
     }
 
     @keyframes test {
