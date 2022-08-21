@@ -29,8 +29,8 @@ nav {
 
         position: absolute;
         width: 80%;
-        min-height: 60%;
-        top: 10%;
+        min-height: 40%;
+        top: 15%;
         transform: translateX(-50%);
         left: 50%;
         background-color: white;
